@@ -1,8 +1,5 @@
 package sample;
 
-import javafx.application.Application;
-import javafx.stage.Stage;
-
 import javax.naming.Context;
 import javax.naming.NameClassPair;
 import javax.naming.NamingEnumeration;
